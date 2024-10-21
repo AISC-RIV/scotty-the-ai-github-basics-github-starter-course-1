@@ -1,0 +1,1 @@
+##A lot of the stuff in this I already have knowledge of since I am currently taking CS 100.
